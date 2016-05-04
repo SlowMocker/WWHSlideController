@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WWHSlideController_Example', :exclusive => true do
+  pod 'WWHSlideController', :path => '../'
+end
+
+target 'WWHSlideController_Tests', :exclusive => true do
+  pod 'WWHSlideController', :path => '../'
+
+  pod 'Kiwi'
+end
