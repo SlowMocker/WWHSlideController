@@ -1,4 +1,5 @@
 # WWHSlideController
+<<<<<<< HEAD
 
 [![CI Status](http://img.shields.io/travis/Wu/WWHSlideController.svg?style=flat)](https://travis-ci.org/Wu/WWHSlideController)
 [![Version](https://img.shields.io/cocoapods/v/WWHSlideController.svg?style=flat)](http://cocoapods.org/pods/WWHSlideController)
@@ -27,3 +28,6 @@ Wu, 2206618839@qq.com
 ## License
 
 WWHSlideController is available under the MIT license. See the LICENSE file for more info.
+=======
+集成多种动画的侧滑框架
+>>>>>>> b06c1e3e560076d2f7c1538fc0ee9d8c292cef52
