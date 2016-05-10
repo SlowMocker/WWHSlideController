@@ -1,0 +1,6 @@
+framework module WWHSlideController {
+  umbrella header "WWHSlideController-umbrella.h"
+
+  export *
+  module * { export * }
+}

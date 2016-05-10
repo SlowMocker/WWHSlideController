@@ -1,0 +1,20 @@
+{
+  "name": "WWHSlideController",
+  "version": "0.1.0",
+  "summary": "This is a slide framework that integrates a variety of animation",
+  "description": "it is a slide framework that i use much time to finish when i am a rookie.if you like it ,i will very happy. that's all.",
+  "homepage": "https://github.com/SlowMocker/WWHSlideController",
+  "license": "MIT",
+  "authors": {
+    "Wu": "2206618839@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/SlowMocker/WWHSlideController.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WWHSlideController/Classes/**/*",
+  "public_header_files": "WWHSlideController/Classes/**/*.h"
+}

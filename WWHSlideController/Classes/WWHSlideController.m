@@ -350,7 +350,7 @@ typedef NS_ENUM(NSInteger,WWHSlideShadowDerection) {
     if (curMoveX < 0) {
         num = 1;
     }
-    else if(curMoveX > 0) {
+    else {
         num = -1;
     }
     
@@ -387,7 +387,7 @@ typedef NS_ENUM(NSInteger,WWHSlideShadowDerection) {
             staticState = WWHSlideStaticStateLeft;
         }
     }
-    else if (self.view.frame.origin.x <= 0) {
+    else {
         if (self.view.frame.origin.x > -self.maxMoveX/2) {
             staticState = WWHSlideStaticStateHome;
         } else {
